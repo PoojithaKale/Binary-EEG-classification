@@ -6,7 +6,7 @@ This project focuses on detection of seizures in an Epileptic EEG signal using t
 for each technique is compared.During the course of this project, Short-time Fourier Transform (STFT), Wavelet and Sparsity techniques will be applied to EEG signals to extract
 features from the segments of data which will help classify the epileptic signal into normal, ictal and interictal changes in brain activity.
 
-      CONCLUSION
+    CONCLUSION
 
 The project is implemented in MATLAB. The code was run on two input signals obtained from the same patient. One input has seizures in 6 of the 55 recorded channels, and the other 
 input had no seizures recorded in any of the 55 channels. Wavelet and Short-term Fourier Transform techniques were run on both the input signals. 
